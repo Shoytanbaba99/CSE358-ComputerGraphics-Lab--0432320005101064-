@@ -1,0 +1,8 @@
+# Prerequisites
+*.d
+*.o
+*.obj
+*.exe
+lab1
+.vscode/
+.DS_Store
