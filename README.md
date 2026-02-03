@@ -9,8 +9,30 @@
 **Course:** Computer Graphics and Multimedia Lab (CSE 358)  
 **Lab Instructor:** Audity Ghosh  
 
+---
+
 ## Repository Description
-This repository contains the lab assignments for the CSE 358 course.
+This repository contains the lab assignments for the **CSE 358** course.
+
+---
 
 ## Assignments
 - [Lab Assignment 1 (Md_Masud_Rahman_Lab1)](./Md_Masud_Rahman_Lab1)
+- [Lab Assignment 2 (Md_Masud_Rahman_Lab2)](./Md_Masud_Rahman_Lab2)
+
+---
+
+## How to Compile and Run
+
+### Compile
+Run the following command:
+
+```bash
+g++ main.cpp glad.c -o lab[number] -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl
+```
+### Run
+
+```bash 
+./lab[number]
+```
+
