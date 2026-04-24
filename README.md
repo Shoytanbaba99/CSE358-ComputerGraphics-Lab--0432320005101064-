@@ -20,6 +20,7 @@ This repository contains the lab assignments for the **CSE 358** course.
 - [Lab Assignment 1 (Md_Masud_Rahman_Lab1)](./Md_Masud_Rahman_Lab1)
 - [Lab Assignment 2 (Md_Masud_Rahman_Lab2)](./Md_Masud_Rahman_Lab2)
 - [Lab Assignment 3 (Md_Masud_Rahman_Lab3)](./Md_Masud_Rahman_Lab3)
+- [Lab Assignment 4 (Md_Masud_Rahman_Lab4)](./Md_Masud_Rahman_Lab4)
 
 ---
 

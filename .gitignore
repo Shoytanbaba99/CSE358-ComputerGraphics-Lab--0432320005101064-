@@ -6,3 +6,6 @@
 lab1
 .vscode/
 .DS_Store
+# Firebase debug logs
+firebase-debug.log*
+.firebase/
